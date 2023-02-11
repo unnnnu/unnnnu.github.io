@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rogue
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            unnu
+tagline:          'Personal Website and Portfolio | unnu'
+description:      'UX Research | Conversational UX | Psychology'
+url:              https://unnu.so
+baseurl:          /
+
+author:
+  name:           'Unnati Senani'
+  url:            https://www.linkedin.com/in/unnatisenani/
+
+paginate:         5
+plugins:          [jekyll-paginate]
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/unnnnu/unnnnu.github.io
