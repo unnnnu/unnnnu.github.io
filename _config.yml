@@ -6,9 +6,9 @@ highlighter:      rogue
 permalink:        pretty
 
 # Setup
-title:            unnu
-tagline:          'Personal Website and Portfolio | unnu'
-description:      'UX Research | Conversational UX | Psychology'
+title:            Unnu
+tagline:          'Personal Website and Portfolio'
+description:      'UX Research, Conversational UX, Psychology'
 url:              https://unnu.so
 baseurl:          /
 
