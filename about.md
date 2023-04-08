@@ -17,4 +17,4 @@ I enjoy helping products and companies in building strategies through explorator
 
 I am also working on an idea for a visual reminder for ADHD folks, which I feel would also be a great tool for neurotypical folks as well.
 
-I like to read, learn more, play a lot of games, make a lot of friends, and drink a lot of cocktails, and I think this is a lot of description of who I am. In case you want to get to know me, feel free to DM me. I would love to know about you too.
+I like to read, learn more, play a lot of games, make a lot of friends, and drink a lot of cocktails, and I think this is a lot of description of who I am. In case you want to get to know me, feel free to contact me. I would love to know about you too.
