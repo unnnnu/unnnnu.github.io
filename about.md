@@ -5,4 +5,16 @@ title: About
 
 Hello there!
 
-My name is Unnati, but you can call me Unnu. I'm a UX researcher with a background in psychology to thank for my love of exploring biases and cognitive principles. I am a part of [UCC (User Connect Consultancy)](https://www.userconnectconsultancy.com/), which is a group of passionate user researchers who are deeply committed to user-centricity. When I'm not synthesising information from interviews, you can find me cracking (admittedly) terrible jokes or working on a new obsession (currently cubing). I stand for inclusive workspaces for neurodivergent individuals and I am super excited to meet you all! :)
+I am Unnati. You can call me Unnu.
+
+I am obsessed with stories, as I believe they shape the world. I like to imagine that transportation was invented so lovers could meet easily, and planes were invented so we could feel what birds feel, even for a while. Stories inspire emotions, emotions inspire invention, and the way this world is shaping up, it's almost overwhelming the scope of inventing, keeping more stories alive, making more stories.
+
+As a user researcher, I believe I am in the right position to understand and inspire better invention, better design, and a better way to live this precious life.
+
+Which reminds me that this precious life is an equal right for neurodivergent folks, and being someone with ADHD, I have come to understand that just a little bit of effort to make something accessible to all makes a huge difference in someone's life.
+
+I enjoy helping products and companies in building strategies through exploratory research and making product better through Usability testing, so it can serve both the creators and the users.
+
+I am also working on an idea for a visual reminder for ADHD folks, which I feel would also be a great tool for neurotypical folks as well.
+
+I like to read, learn more, play a lot of games, make a lot of friends, and drink a lot of cocktails, and I think this is a lot of description of who I am. In case you want to get to know me, feel free to DM me. I would love to know about you too.
