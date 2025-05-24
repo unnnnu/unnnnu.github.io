@@ -43,7 +43,7 @@ Here’s my Recruitment Survival Guide:
 
 + **Verify the user details in advance**: Get LinkedIn IDs, basic documents, or anything that verifies their identity. This helps ensure you’re speaking to real users and not to someone trying to earn incentives.
 
-Hack: If you have users’ Aadhar cards, you can verify their identity here at https://myaadhaar.uidai.gov.in/verify-email-mobile/en
+Hack: If you have users’ Aadhar cards, you can verify their identity here at [https://myaadhaar.uidai.gov.in/verify-email-mobile/en](https://myaadhaar.uidai.gov.in/verify-email-mobile/en)
 
 + **Backcheck before the interview**: A 5-minute call with the user helps confirm they exist, are the right fit, and will show up. During this call, you can verify the info and check if they’re articulate enough for qualitative research. This call acts as a vibe check. If the user can’t engage in conversation now, the actual interview won’t be useful either.
 
