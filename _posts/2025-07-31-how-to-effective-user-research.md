@@ -7,17 +7,17 @@ title: How to Conduct Effective User Research for Better UI/UX Design?
 
 ![banner](/assets/images/how-to-effective-user-research/how_to_conduct_effective_user_research.webp)
 
-We have all worked on at least one project where the user research did not translate into [UI/UX design](https://lollypop.design/), and everyone was left to wonder, “What was the point?”
+We have all worked on at least one project where the user research did not translate into UI/UX design, and everyone was left to wonder, “What was the point?”
 
-In this article, I don’t want to bog you down with the best user research methods or ways to conduct [UX research](https://lollypop.design/ux-research/) that feed nicely into UI/UX design. There are a bunch of articles on how to conduct user research on the internet that you can refer to.
+In this article, I don’t want to bog you down with the best user research methods or ways to conduct UX research that feed nicely into UI/UX design. There are a bunch of articles on how to conduct user research on the internet that you can refer to.
 
-Instead, [let’s talk](https://lollypop.design/project-enquiry/) about the relationship between research and design, their cousin business, along with how to avoid unemployed research reports and designs that barely care about the user in the user experience. This discussion is especially relevant if you’re trying to improve the UI/UX design process by aligning design, user insights, and business needs.
+Instead, let’s talk about the relationship between research and design, their cousin business, along with how to avoid unemployed research reports and designs that barely care about the user in the user experience. This discussion is especially relevant if you’re trying to improve the UI/UX design process by aligning design, user insights, and business needs.
 
 ## Key Steps to Translate User Research into Effective UI/UX Design
 
 ### 1\. Setting Expectations from the Get-Go
 
-![](%7B%7Bsite.baseurl%7D%7D/assets/images/how-to-effective-user-research/setting_expectations.webp)
+![](/assets/images/how-to-effective-user-research/setting_expectations.webp)
 
 First of all, there should be consensus on what research is doing and why, and how it will aid the design. In other words, the assignment of tasks to both the research and design teams—a defined UX research process that connects directly with design workflows.
 
@@ -39,7 +39,7 @@ This is a great segue to talk about the most crucial thing for research to be he
 
 ### 2\. Communicate Insights; Don’t Just Share
 
-![](%7B%7Bsite.baseurl%7D%7D/assets/images/how-to-effective-user-research/communicate_indisghts.webp)
+![](/assets/images/how-to-effective-user-research/communicate_indisghts.webp)
 
 In an ideal world, researchers would research and hand off the insights to design. Design would take all the insights and make the best user-centered product.
 
@@ -66,7 +66,7 @@ Here, design can intervene, think of a unique solution, and put their UX underst
 
 ### 3\. When in Rome, Do as the Romans Do
 
-![](%7B%7Bsite.baseurl%7D%7D/assets/images/how-to-effective-user-research/when_in_rome_do_as_the_romans_do.webp)
+![](/assets/images/how-to-effective-user-research/when_in_rome_do_as_the_romans_do.webp)
 
 Make insights easy to digest. We know we wanna make perfect insights that are not just “findings” (if you know, you know).
 
@@ -82,7 +82,8 @@ To-be: “As a user, I want to easily find the checkout button so I can complete
 #### Jobs To Be Done (JTBD)
 
 When (situation), I want to (motivation), so I can (expected outcome).  
-Example:  
+
+**Example**:  
 When I’m commuting, I want to listen to something engaging so I can make the most of my time.
 
 This helps the designer:
@@ -107,7 +108,7 @@ It takes extra effort, but it is totally worth it and a much better way to share
 
 ### 4\. Aligning User and Business Needs
 
-![](%7B%7Bsite.baseurl%7D%7D/assets/images/how-to-effective-user-research/aligning_user_business_needs.webp)
+![](/assets/images/how-to-effective-user-research/aligning_user_business_needs.webp)
 
 Over-indexing user needs and overlooking business needs is not the way to go.
 
