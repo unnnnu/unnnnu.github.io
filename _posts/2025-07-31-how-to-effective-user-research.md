@@ -1,4 +1,6 @@
 ---
+published: true
+date: 2025-07-31
 title: How to Conduct Effective User Research for Better UI/UX Design?
 ---
 > This was originally posted on Lollypop Design Studio’s blog [here](https://lollypop.design/blog/2025/july/how-to-conduct-user-research-ui-ux-design/)
@@ -14,7 +16,8 @@ Instead, [let’s talk](https://lollypop.design/project-enquiry/) about the rela
 ## Key Steps to Translate User Research into Effective UI/UX Design
 
 ### 1\. Setting Expectations from the Get-Go
-![]({{site.baseurl}}/assets/images/how-to-effective-user-research/setting_expectations.webp)
+
+![](%7B%7Bsite.baseurl%7D%7D/assets/images/how-to-effective-user-research/setting_expectations.webp)
 
 First of all, there should be consensus on what research is doing and why, and how it will aid the design. In other words, the assignment of tasks to both the research and design teams—a defined UX research process that connects directly with design workflows.
 
@@ -35,7 +38,8 @@ Instead of:
 This is a great segue to talk about the most crucial thing for research to be helpful to design and vice versa: translating [UX research into design decisions](https://uxcam.com/blog/design-decisions/).
 
 ### 2\. Communicate Insights; Don’t Just Share
-![]({{site.baseurl}}/assets/images/how-to-effective-user-research/communicate_indisghts.webp)
+
+![](%7B%7Bsite.baseurl%7D%7D/assets/images/how-to-effective-user-research/communicate_indisghts.webp)
 
 In an ideal world, researchers would research and hand off the insights to design. Design would take all the insights and make the best user-centered product.
 
@@ -51,20 +55,18 @@ If there were clear communication between UX research and design about the meani
 
 #### Example:
 
-**Insight**:
-Users naturally group laptop sleeves and hard cases together, viewing them as variations of the same product type meant for device protection, and expect to find them in the same category.
+**Insight**: Users naturally group laptop sleeves and hard cases together, viewing them as variations of the same product type meant for device protection, and expect to find them in the same category.
 
-**Business view**:
-Laptop sleeves should be kept with mobile covers, so people see suggestions and buy the sleeves as well.
+**Business view**: Laptop sleeves should be kept with mobile covers, so people see suggestions and buy the sleeves as well.
 
-**Solution**:
-A conversation between the three could lead to a golden mean:  
+**Solution**: A conversation between the three could lead to a golden mean:  
 Laptop sleeves and hard cases stay in the same category, but there are pop-ups of phone cases in similar items or categories to lead the user to mobile cases.
 
 Here, design can intervene, think of a unique solution, and put their UX understanding to best use, without having to simply do what research and business say. This is what makes UX research for UI design truly impactful.
 
 ### 3\. When in Rome, Do as the Romans Do
-![]({{site.baseurl}}/assets/images/how-to-effective-user-research/when_in_rome_do_as_the_romans_do.webp)
+
+![](%7B%7Bsite.baseurl%7D%7D/assets/images/how-to-effective-user-research/when_in_rome_do_as_the_romans_do.webp)
 
 Make insights easy to digest. We know we wanna make perfect insights that are not just “findings” (if you know, you know).
 
@@ -104,7 +106,8 @@ Also, show and tell! Present your insights to designers as if they are your bigg
 It takes extra effort, but it is totally worth it and a much better way to share your insights than simply sharing the presentation and leaving the information to interpretation. This approach strengthens your overall UI/UX design strategy.
 
 ### 4\. Aligning User and Business Needs
-![]({{site.baseurl}}/assets/images/how-to-effective-user-research/aligning_user_business_needs.webp)
+
+![](%7B%7Bsite.baseurl%7D%7D/assets/images/how-to-effective-user-research/aligning_user_business_needs.webp)
 
 Over-indexing user needs and overlooking business needs is not the way to go.
 
