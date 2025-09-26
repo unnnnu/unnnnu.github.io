@@ -3,7 +3,7 @@ title: How to Conduct Effective User Research for Better UI/UX Design?
 ---
 > This was originally posted on Lollypop Design Studio’s blog [here](https://lollypop.design/blog/2025/july/how-to-conduct-user-research-ui-ux-design/)
 
-![banner]({{site.baseurl}}/assets/images/how-to-effective-user-research/how_to_conduct_effective_user_research.webp)
+![banner](/assets/images/how-to-effective-user-research/how_to_conduct_effective_user_research.webp)
 
 We have all worked on at least one project where the user research did not translate into [UI/UX design](https://lollypop.design/), and everyone was left to wonder, “What was the point?”
 
