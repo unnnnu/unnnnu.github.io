@@ -28,6 +28,9 @@ content:
       - name: title
         label: Website title
         type: string
+      - name: tagline
+        label: Website Tagline
+        type: string
       - name: description
         label: Website description
         type: string
