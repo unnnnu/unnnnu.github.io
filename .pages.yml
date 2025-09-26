@@ -20,6 +20,10 @@ content:
       - name: body
         label: Body
         type: rich-text
+  - name: about
+    label: About Page
+    path: about.md
+    type: file
   - name: config
     label: Website config
     path: _config.yml
