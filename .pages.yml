@@ -25,7 +25,7 @@ content:
     path: about.md
     type: file
   - name: config
-    label: Website config
+    label: Website Config
     path: _config.yml
     type: file
     fields:
